@@ -1,25 +1,23 @@
 {
-  "name": "awesome-books",
+  "name": "awesome-books-with-es6",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itswali/Awesome-Books.git"
+    "url": "git+https://github.com/elad237/Awesome-books-with-ES6.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Itswali/Awesome-Books/issues"
+    "url": "https://github.com/elad237/Awesome-books-with-ES6/issues"
   },
-  "homepage": "https://github.com/Itswali/Awesome-Books#readme",
+  "homepage": "https://github.com/paulinagonzalezc/Awesome-books-with-ES6#readme",
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.43.0",
-    "@typescript-eslint/parser": "^5.43.0",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
@@ -29,5 +27,8 @@
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "luxon": "^3.1.0"
   }
 }
