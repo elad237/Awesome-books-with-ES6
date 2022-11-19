@@ -17,17 +17,18 @@
 ## Getting Started
 
 ### Prerequisites
-* Have git installed. (For version control)
-* Have text editor installed. (VSCode or sublime)
-* Have CSS,HTML & JS Linters installed and configured.
+* Have git install. (For version control)
+* I have installed (VSCode or sublime)
+* Have CSS, HTML & JS Linters installed and configured.
 
 To get a local copy up and running:
 
 Clone the repo
 git clone https://github.com/elad237/Awesome-books-with-ES6.git
-Set it up localy.
+Set it up locally.
 
 ## Authors
+
 👤 **TUMBU BARTHOLOMEW ELAD**
 
  GitHub: [@githubhandle](https://github.com/elad237)
